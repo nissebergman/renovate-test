@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.33.1"
+  "packageManager": "pnpm@10.33.1",
+  "dependencies": {
+    "shell-quote": "1.6.0",
+    "tar": "7.5.3"
+  }
 }
